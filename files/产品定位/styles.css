@@ -619,7 +619,7 @@
   left:0px;
   top:0px;
   width:1149px;
-  height:340px;
+  height:460px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -635,7 +635,7 @@
   left:76px;
   top:200px;
   width:1149px;
-  height:340px;
+  height:460px;
   font-size:17px;
   line-height:27px;
 }
@@ -645,4 +645,120 @@
   top:0px;
   width:1149px;
   word-wrap:break-word;
+}
+#u202_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:424px;
+  height:576px;
+}
+#u202 {
+  position:absolute;
+  left:76px;
+  top:660px;
+  width:424px;
+  height:576px;
+}
+#u203 {
+  position:absolute;
+  left:2px;
+  top:280px;
+  width:420px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u204_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:313px;
+  height:534px;
+}
+#u204 {
+  position:absolute;
+  left:547px;
+  top:660px;
+  width:313px;
+  height:534px;
+}
+#u205 {
+  position:absolute;
+  left:2px;
+  top:259px;
+  width:309px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u206_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:163px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:center;
+}
+#u206 {
+  position:absolute;
+  left:207px;
+  top:1246px;
+  width:163px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:center;
+}
+#u207 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:163px;
+  white-space:nowrap;
+}
+#u208_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:145px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:center;
+}
+#u208 {
+  position:absolute;
+  left:631px;
+  top:1214px;
+  width:145px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:center;
+}
+#u209 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:145px;
+  white-space:nowrap;
 }
